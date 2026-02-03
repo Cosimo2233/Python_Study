@@ -1,4 +1,3 @@
-firstname="RuiYang"
-lastname="Zhang"
-fullname=f"{firstname}.{lastname}"
-print(fullname.title())
+print("1")
+print("2")
+print("3")

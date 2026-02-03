@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a = 12;
+    if (a > 2)
+    {
+        cout << "Hello World" << endl;
+    }
+     if (a > 2)
+    {
+        cout << "Hello Universe" << endl;
+    }
+}
